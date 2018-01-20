@@ -1,0 +1,15 @@
+{
+    "title": "WCT2",
+    "baseURL": "https:\/\/www.cuttnce.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759090",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "cuttnce.com"
+    }
+}
